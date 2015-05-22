@@ -5,7 +5,7 @@ Unzip it and set your working directory as the data folder, UCI HAR DATASET. run
 * run_analysis.R is an R script that combines all the data, does a couple calculations, and creates 2 data sets
 * tidy_data.txt contains the first data set that has all the data combined, and adds the means and standard deviations.
 * data_avgs.txt contains the second data set which has all the averages of all the variables for each subject and activity.
-### What run_analysis.R Does
+#### What run_analysis.R Does
 * Merges the training and the test sets.
 * Extracts the mean and standard deviation for each measurement. 
 * Uses descriptive activity names to name the activities in the data set.
