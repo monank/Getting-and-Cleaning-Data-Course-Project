@@ -1,7 +1,3 @@
-# Packages necessary for the data transformation
-# library(plyr)
-# library(dplyr)
-
 # Reading files
 activity <- read.table("activity_labels.txt")
 features <- read.table("features.txt")
