@@ -59,4 +59,4 @@ for(i in 1:sLength) {
         row <- row + 1
     }
 }
-write.table(result, "data_with_avg.txt", row.name=FALSE)
+write.table(result, "data_avgs.txt", row.name=FALSE)
